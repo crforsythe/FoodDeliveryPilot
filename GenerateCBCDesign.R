@@ -12,7 +12,7 @@ levelValues <- list(
 doe <- makeDoe(levelValues)
 doe <- recodeDoe(doe, levelValues)
 
-numberOfRespondents <- 10000
+numberOfRespondents <- 1000
 numberOfQuestions <- 10
 numberOfAlts <- 2
 outsideGood <- FALSE
