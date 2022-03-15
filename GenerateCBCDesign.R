@@ -4,9 +4,9 @@ set.seed(1995912)
 
 levelValues <- list(
   price = c("$0", "$5", "$10", "$15", "$20", "$25", "$30"),
-  time = c("Today", 'Tomorrow', 'In 4 days', 'In 7 days'),
-  agent = c('Human', 'Autnomous robot'),
-  location = c('Doorstep', 'Curbside', 'Neighborhood locker')
+  time = c("Today", 'Tomorrow', 'In\n4 days', 'In\n7 days'),
+  agent = c('Human', 'Autnomous\nvehicle'),
+  location = c('Doorstep', 'Curbside', 'Neighborhood\nlocker')
 )
 
 doe <- makeDoe(levelValues)
