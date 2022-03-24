@@ -3,10 +3,10 @@ output: html_document
 ---
 
 ##### Grocery Delivery
-Grocery delivery is a service that delivers of a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled up by a grocery store of your choosing.
+Grocery delivery is a service that delivers a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled up by a grocery store of your choosing.
 
 
-<img src=PostImages/Delivery.jpg width=200>
+<img src=PostImages/Delivery.jpg width=300>
 
 
 ##### Buy Your Own Groceries
@@ -21,7 +21,7 @@ Delivery will be completed today, tomorrow, in 4 days, or in 7 days. Groceries w
 ##### Delivery Agent
 Delivery will be performed by either a human or an autonomous vehicle. This will not impact the delivery price, process, or timing in any way.
 
-<img src=PostImages/Person.png width=150>
+<img src=PostImages/Person.jpg width=150>
 <img src=PostImages/Robot.jpg width=225>
 
 ##### Location
