@@ -12,17 +12,25 @@ output: html_document
 
 - **Buy Your Own Groceries**: This refers to the traditional way you would buy your groceries.
 
+Click the back button on your browser to return to the survey.
+
 ##### Delivery Price
 Each grocery delivery will cost a flat fee regardless of the number of grocery deliveries. This includes all associated costs including tip.
 
+Click the back button on your browser to return to the survey.
+
 ##### Delivery Date
 Delivery will be completed today, tomorrow, in 4 days, or in 7 days. Groceries will be delivered to the given location (described below).
+
+Click the back button on your browser to return to the survey.
 
 ##### Delivery Agent
 Delivery will be performed by either a human or an autonomous vehicle. This will not impact the delivery price, process, or timing in any way.
 
 <img src=PostImages/Person.jpg width=150>
 <img src=PostImages/Robot.jpg width=225>
+
+Click the back button on your browser to return to the survey.
 
 ##### Location
 Grocery deliveries will be taken to one of three locations:
@@ -39,3 +47,5 @@ Grocery deliveries will be taken to one of three locations:
 - **Neighborhood locker**: groceries will be delivered to a secure, refrigerated locker that is within walking distance from your house.
 
 <img src=PostImages/Locker.jpg width=300>
+
+Click the back button on your browser to return to the survey.
