@@ -2,15 +2,15 @@
 output: html_document
 ---
 
-##### Grocery Delivery
-Grocery delivery is a service that delivers a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled up by a grocery store of your choosing.
+##### Grocery Delivery and Buying Your Own Groceries
+- **Grocery delivery**: This is a service that delivers a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled up by a grocery store of your choosing.
+
 
 
 <img src=PostImages/Delivery.jpg width=300>
 
 
-##### Buy Your Own Groceries
-This refers to the traditional way you would buy your groceries.
+- **Buy Your Own Groceries**: This refers to the traditional way you would buy your groceries.
 
 ##### Delivery Price
 Each grocery delivery will cost a flat fee regardless of the number of grocery deliveries. This includes all associated costs including tip.
@@ -27,14 +27,15 @@ Delivery will be performed by either a human or an autonomous vehicle. This will
 ##### Location
 Grocery deliveries will be taken to one of three locations:
 
-- **Doorstep**: groceries will be placed, unsupervised, on your doorstep
+- **Doorstep**: groceries will be placed, unsupervised, on your doorstep. For example, groceries would be place on the front porch for single-family homes or outside the front door for apartment buildings.
+
 
 <img src=PostImages/Doorstep.jpg width=300>
 
-- **Curbside**: groceries are delivered to your curbside, you will have to come and pick the groceries up from the delivery vehicle
+- **Curbside**: groceries are delivered to your curbside, you will have to come and pick the groceries up from the delivery vehicle.
 
 <img src=PostImages/Curbside.png width=300>
 
-- **Neighborhood locker**: groceries will be delivered to a secure, refrigerated locker that is within walking distance from your house
+- **Neighborhood locker**: groceries will be delivered to a secure, refrigerated locker that is within walking distance from your house.
 
 <img src=PostImages/Locker.jpg width=300>
