@@ -9,7 +9,7 @@ output: html_document
 <img src=PostImages/Delivery.jpg width=300>
 
 
-- **Buy Your Own Groceries**: This refers to the traditional way you would buy your groceries at a grocery store.
+- **Buy Your Own Groceries**: This refers to the traditional way you would buy your groceries at a grocery store  (i.e. in-person shopping).
 
 ##### Delivery Price
 Each grocery delivery will cost a flat fee regardless of the number of grocery deliveries. This includes all associated costs including tip. When you buy your own groceries there is no delivery price.
@@ -26,7 +26,7 @@ Delivery will be performed by either a human or an autonomous vehicle. This will
 ##### Location
 Grocery deliveries will be taken to one of three locations:
 
-- **Doorstep**: Groceries will be placed, unsupervised, on your doorstep. For example, groceries would be place on the front porch for single-family homes or outside the front door for apartment buildings.
+- **Doorstep**: Groceries will be placed, unsupervised, on your doorstep. For example, groceries will be placed on the front porch for single-family homes or outside the front door for apartment buildings.
 
 <img src=PostImages/Doorstep.jpg width=300>
 
