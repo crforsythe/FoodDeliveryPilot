@@ -3,7 +3,7 @@ output: html_document
 ---
 
 ##### Grocery Delivery and Buying Your Own Groceries
-- **Grocery delivery**: This is a service that delivers a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled up by a grocery store of your choosing.
+- **Grocery delivery**: This is a service that delivers a *single* grocery order to a given location (described below). You place your grocery order via a smartphone app or website. The order will be fulfilled by a grocery store of your choosing.
 
 
 <img src=PostImages/Delivery.jpg width=300>
